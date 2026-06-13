@@ -1,7 +1,7 @@
 # 🥪 Panini Monster
 
 <p align="center">
-  <img src="overview.svg" alt="Panini Monster system overview" width="100%">
+  <img src="panini_monster.jpg" alt="The Panini Monster robot" width="560">
 </p>
 
 > **Team:** Nielsen Cugito · Madden Rota
@@ -24,7 +24,7 @@ Our "Panini Monster" is a roaming robot that trundles around singing the *panini
 | [CameraWebServer/](CameraWebServer/) | ESP32 camera that streams the monster's live video over WiFi |
 | [panini_demo_v1.mp4](panini_demo_v1.mp4) | Demo video of the full robot in action |
 | [speaker_and_rfid.mp4](speaker_and_rfid.mp4) | Demo video of the audio + RFID subsystem |
-| [Panini_Monster_Final.pdf](Panini_Monster_Final.pdf) | Slides from the final presentation |
+| [Panini_Monster_Final.svg](Panini_Monster_Final.svg) | Slides from the final presentation |
 
 ---
 
@@ -186,7 +186,12 @@ All three sketches are built with the **Arduino IDE** + the **ESP32 board packag
 
 - 🎬 [panini_demo_v1.mp4](panini_demo_v1.mp4) — the assembled Panini Monster in action.
 - 🔊 [speaker_and_rfid.mp4](speaker_and_rfid.mp4) — close-up of the audio + RFID "eating" interaction.
-- 🖼️ [Panini_Monster_Final.pdf](Panini_Monster_Final.pdf) — the final presentation deck.
+- 🖼️ [Panini_Monster_Final.svg](Panini_Monster_Final.svg) — the final presentation deck.
+
+<p align="center">
+  <img src="panini_monster_salmon.jpg" alt="The Panini Monster devouring salmon" width="560"><br>
+  <em>The monster devouring some Finnish (Norwegian?) salmon.</em>
+</p>
 
 ---
 
