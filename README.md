@@ -1,5 +1,11 @@
 # 🥪 Panini Monster
 
+<p align="center">
+  <img src="overview.svg" alt="Panini Monster system overview" width="100%">
+</p>
+
+> **Team:** Nielsen Cugito · Madden Rota
+
 Final project for **[UBISS 2026](https://ubicomp.oulu.fi/UBISS2026)** — the 14th International UBI Summer School, held in Oulu, Finland, June 8–13, 2026.
 
 We took part in **Workshop C: *Robot Makers — Expression Through Robotics***, led by Assoc. Prof. Ankur Mehta (UCLA) and Assoc. Prof. Cynthia Sung (UPenn). The workshop explores robotics as an artistic and engineering medium — using mechanical design, fabrication, and code to build functional robots that express a creative idea.
@@ -184,6 +190,6 @@ All three sketches are built with the **Arduino IDE** + the **ESP32 board packag
 
 ---
 
-*Built at UBISS 2026, Workshop C — RoboMakers, University of Oulu.*
+*Built by **Nielsen Cugito** & **Madden Rota** at UBISS 2026, Workshop C — RoboMakers, University of Oulu.*
 
 Sources for the summer-school context: [UBISS 2026](https://ubicomp.oulu.fi/UBISS2026) · [UBISS 2026 schedule](https://ubicomp.oulu.fi/UBISS2026/schedule)
